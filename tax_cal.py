@@ -11,7 +11,7 @@ state_ref = {
 }
 local_ref = {
     "rates": [3.078, 3.762, 3.819, 3.876]
-    , "brackets": [21600, 45000, 90000]
+    , "brackets": [14400, 30000, 60000]
 }
 
 def tax(income, rates, brackets, base_tax):
